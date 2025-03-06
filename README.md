@@ -14,4 +14,7 @@ Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**
 - `a_star_graph.py` → Implementasi A* Graph Search
 
 ##  Cara Menjalankan di Google Colab
-1. **Clone repository ini ke Google Colab 
+1. Clone repository ini ke Google Colab
+2. Pastikan semua dependensi telah terinstal
+3. Buka dan jalankan file Python di Google Colab
+4. Mengedit dan menjalankan kode langsung di Google Colab 
